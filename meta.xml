@@ -1,0 +1,10 @@
+<meta>
+  <info author="Casti" type="script" version="1.0.0" name="Grenade Launcher" />
+
+  <script src="client.lua" type="client" cache="false" />
+  <script src="server.lua" type="server" />
+
+
+  <file src="file/shotgspa.dff" />
+  <file src="file/shotgspa.txd" />
+</meta>
